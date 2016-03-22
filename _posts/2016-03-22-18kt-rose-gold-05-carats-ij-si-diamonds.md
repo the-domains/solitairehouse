@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "18Kt ROSE GOLD\_- 0.5 CARATS\_IJ-SI\_DIAMONDS"
-datePublished: '2016-03-22T09:10:11.157Z'
-dateModified: '2016-03-22T09:03:35.201Z'
+datePublished: '2016-03-22T09:10:48.766Z'
+dateModified: '2016-03-22T09:10:13.306Z'
 title: VIVIANA EARRING
 author: []
 sourcePath: _posts/2016-03-22-18kt-rose-gold-05-carats-ij-si-diamonds.md
