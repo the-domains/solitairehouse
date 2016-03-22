@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Exquisite On-line Jewellery]]></title>
         <description><![CDATA[Exquisite On-line Jewellery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/solitairehouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 08:54:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 09:03:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/solitairehouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/solitairehouse/18kt-rose-gold-05-carats-ij-si-diamonds/index.html</link>
+            <guid isPermaLink="false">771c69f6-9e47-4293-871b-6ee5389c7224</guid>
+            <pubDate>Tue, 22 Mar 2016 09:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ZUHA PENDANT]]></title>
             <description><![CDATA[<article><h1>ZUHA PENDANT</h1><p></p></article>]]></description>
-            <link>undefinedzuha-pendant/index.html</link>
+            <link>https://thegrid.ai/solitairehouse/zuha-pendant/index.html</link>
             <guid isPermaLink="false">2f0e5c79-05d6-4a44-b05c-b4972ff8e99d</guid>
             <pubDate>Tue, 22 Mar 2016 08:54:33 GMT</pubDate>
         </item>
