@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "18Kt ROSE GOLD\_- 0.5 CARATS\_IJ-SI\_DIAMONDS"
-datePublished: '2016-03-22T09:03:00.136Z'
-dateModified: '2016-03-22T09:02:57.716Z'
-title: ''
+datePublished: '2016-03-22T09:10:11.157Z'
+dateModified: '2016-03-22T09:03:35.201Z'
+title: VIVIANA EARRING
 author: []
+sourcePath: _posts/2016-03-22-18kt-rose-gold-05-carats-ij-si-diamonds.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-18kt-rose-gold-05-carats-ij-si-diamonds.md
-published: true
 url: 18kt-rose-gold-05-carats-ij-si-diamonds/index.html
 _type: Article
 
@@ -31,8 +31,6 @@ _type: Article
 Shining Look!!! You'll feel sensual in this awe inspiring lustrous VIVIANA EARRING
 
 Casted in 18Kt rose gold weighing approx. 4.91 grams. and delicately hand set with 50 Round brilliant cut diamonds weighing approx. 0.5 carats this earring showcases our highest level of craftsmanship to jewellery making.
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/654dbc8e-dee2-4dbf-8389-07fcd8ff5831.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7dc1615-fa77-4b5c-9d7f-7ca8559ab7ce.jpg)
 
