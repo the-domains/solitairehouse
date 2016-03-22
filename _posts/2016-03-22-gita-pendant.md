@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "18Kt YELLOW GOLD\_- 0.68 CARATS\_IJ-SI\_DIAMONDS"
-datePublished: '2016-03-22T08:42:52.949Z'
-dateModified: '2016-03-22T08:42:34.225Z'
+datePublished: '2016-03-22T09:10:37.688Z'
+dateModified: '2016-03-22T09:09:00.794Z'
 title: GITA PENDANT
 author: []
+sourcePath: _posts/2016-03-22-gita-pendant.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-gita-pendant.md
-published: true
 url: gita-pendant/index.html
-_type: Blurb
+_type: Article
 
 ---
 ****
@@ -33,3 +33,10 @@ Charming Look!!! You'll look fabulous in this awe inspiring graceful GITA PENDAN
 Casted in 18Kt YELLOW gold weighing approx. 5.42 grams. and delicately hand set with 53 Round brilliant cut diamonds weighing approx. 0.68 carats this pendant showcases our highest level of craftsmanship to jewellery making.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adac9ad9-fcdb-470e-a99b-5f986caceeb8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77a2e5b-39f8-43f4-aea2-3c45fbb04aef.jpg)
+
+Click [here ][0]to buy!!!
+
+  
+
+
+[0]: http://www.solitairehouse.com/gita-pendant.html
